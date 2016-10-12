@@ -27,6 +27,20 @@
     "Edad" : "22",
     "Telefono" : "3478953612",
     "Direccion" : "Portal Juarez 23"
+  },
+  {
+    "Nombre" : "Sergio",
+    "Hobby" : "Soccer",
+    "Edad" : "22",
+    "Telefono" : "4589655315",
+    "Direccion" : "Ciudad Granja 33"
+  },
+  {
+    "Nombre" : "Eduardo",
+    "Hobby" : "Comer",
+    "Edad" : "25",
+    "Telefono" : "333569781",
+    "Direccion" : "Mar Marmara 6985"
   }
 ]
 }
