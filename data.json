@@ -1,0 +1,32 @@
+{
+  "result": [
+  {
+    "Nombre" : "Luis",
+    "Hobby" : "Videojuegos",
+    "Edad" : "19",
+    "Telefono" : "3477785311",
+    "Direccion" : "Genaro Alcala #11"
+  },
+  {
+    "Nombre" : "Victor",
+    "Hobby" : "Bolsa de valores",
+    "Edad" : "29",
+    "Telefono" : "3316018563",
+    "Direccion" : "Mar Amarillo 1510"
+  },
+  {
+    "Nombre" : "Armando",
+    "Hobby" : "Fotografia",
+    "Edad" : "22",
+    "Telefono" : "598723614",
+    "Direccion" : "Madero 2654"
+  },
+  {
+    "Nombre" : "Cristian",
+    "Hobby" : "Charro",
+    "Edad" : "22",
+    "Telefono" : "3478953612",
+    "Direccion" : "Portal Juarez 23"
+  }
+]
+}
